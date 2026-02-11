@@ -88,8 +88,8 @@
       "label": "Ledetekster",
       "fields": [
         {
-          "label": "Label for the \"Next\" button",
-          "default": "Next question"
+          "label": "Etikett på \"Neste\" knappen",
+          "default": "Neste spørsmål"
         },
         {
           "label": "Etikett på \"Vis svar\" knappen",
